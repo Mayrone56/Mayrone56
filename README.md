@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## Social
-
-<img href="https://linkedin.com/in/ssardella" src="./images/social/linkedin-original-wordmark.svg" alt="git-original-wordmark.svg" width="200" height="200">
-
+<a href="https://linkedin.com/in/ssardella">
+  <img src="./images/social/linkedin-original-wordmark.svg" alt="git-original-wordmark.svg" width="200" height="200">
+</a>>
 ## Tech
 
 <img src="./images/tech/git-original-wordmark.svg" alt="git-original-wordmark.svg" width="50" height="50">
