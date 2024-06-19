@@ -3,9 +3,9 @@
 ## Social
 <a href="https://linkedin.com/in/ssardella">
   <img src="./images/social/linkedin-original-wordmark.svg" alt="git-original-wordmark.svg" width="200" height="200">
-</a>>
-## Tech
+</a>
 
+## Tech
 <img src="./images/tech/git-original-wordmark.svg" alt="git-original-wordmark.svg" width="50" height="50">
 <img src="./images/tech/github-original-wordmark.svg" alt="github-original-wordmark.svg" width="50" height="50">
 <img src="./images/tech/javascript-original.svg" alt="javascript-original.svg" width="50" height="50">
@@ -33,7 +33,6 @@
 [![img_contact](./images/tech/typescript-original.svg)] -->
 
 ## Design
-
 <img src="./images/design/figma-original.svg" alt="figma-original.svg" width="50" height="50">
 <img src="./images/design/unity-original-wordmark.svg" alt="unity-original-wordmark.svg" width="50" height="50">
 
