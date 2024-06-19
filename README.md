@@ -1,4 +1,4 @@
-## Hi there 👋
+[![MasterHead](./images/banner.png)]
 
 Freshly graduated from La Capsule Bootcamp as a Fullstack Developer, I am actively seeking an internship within a dynamic company. With a boundless passion for development and a solid education, I am ready to immerse myself in an enriching professional environment. My over 15 years of experience as a Designer and Art Director adds a unique dimension to my technical skills, allowing me to approach development from a creative and innovative perspective.
 
