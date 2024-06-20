@@ -9,6 +9,17 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
 ## Social
 
 <p align="center">
+     <a href="https://linkedin.com/in/ssardella">
+        <img src="images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+     </a>
+     <a href="https://www.instagram.com/mayrone_art">
+        <img src="images/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+     </a>
+</p>
+
+## Tech
+
+<p align="center">
     <img src="images/tech/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
@@ -22,18 +33,6 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
     <img src="images/tech/github.svg" alt="react" style="vertical-align:top; margin:6px 4px"> -->
     <img src="images/tech/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/mongoose.svg" alt="mongoose" style="vertical-align:top; margin:6px 4px">
-
-</p>
-
-## Tech
-
-<p align="center">
-     <a href="https://linkedin.com/in/ssardella">
-        <img src="images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-     </a>
-     <a href="https://www.instagram.com/mayrone_art">
-        <img src="images/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-     </a>
 </p>
 
 ## Design
