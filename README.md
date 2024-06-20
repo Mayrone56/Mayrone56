@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=300&color=FFFFFF&background=401A82&center=true&vCenter=true&multiline=true&random=false&width=1024&height=100&lines=Hello+world+%F0%9F%91%8B!;I'm+Sandrine+-+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=300&color=FFFFFF&background=401A82&center=true&vCenter=true&multiline=true&random=false&width=1024&height=100&lines=Hello+world%F0%9F%91%8B!;I'm+Sandrine+-+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <!--/*![MasterHead](./images/banner.png)-->
 
