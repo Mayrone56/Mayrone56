@@ -8,45 +8,41 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
 
 ## Social
 
-<div style="background-color: white; border-radius: 40px; padding: 16px; display: flex; justify-content: center; flex-wrap: wrap; gap: 16px">
-    <img href="https://linkedin.com/in/ssardella" src="./images/social/linkedin-original.svg" alt="linkedin-original.svg" width="50" height="50">
-</div>
+<p align="center">
+    <img src="images/tech/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/typescript.svg" alt="typescript" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/redux.svg" alt="redux" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/express.svg" alt="express" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/nextjs.svg" alt="nextjs" style="vertical-align:top; margin:6px 4px">
+    <!-- <img src="images/tech/git.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/github.svg" alt="react" style="vertical-align:top; margin:6px 4px"> -->
+    <img src="images/tech/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/mongoose.svg" alt="mongoose" style="vertical-align:top; margin:6px 4px">
+
+</p>
 
 ## Tech
 
-<div style="background-color: white; border-radius: 40px; padding: 16px; display: flex; justify-content: center; flex-wrap: wrap; gap: 16px">
-    <img src="./images/tech/git-original-wordmark.svg" alt="git-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/github-original-wordmark.svg" alt="github-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/javascript-original.svg" alt="javascript-original.svg" width="50" height="50">
-    <img src="./images/tech/react-original.svg" alt="react-original.svg" width="50" height="50">
-    <img src="./images/tech/express-original-wordmark.svg" alt="express-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/nextjs-original-wordmark.svg" alt="nextjs-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/nodejs-original-wordmark.svg" alt="nodejs-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/mongodb-original-wordmark.svg" alt="mongodb-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/mongoose-original-wordmark.svg" alt="mongoose-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/redux-original.svg" alt="redux-original.svg" width="50" height="50">
-    <img src="./images/tech/nextjs-original-wordmark.svg" alt="nextjs-original-wordmark.svg" width="50" height="50">
-    <img src="./images/tech/typescript-original.svg" alt="typescript-original.svg" width="50" height="50">
-</div>
-<!-- [![img_contact](./images/tech/git-original-wordmark.svg)]
-[![img_contact](./images/tech/github-original-wordmark.svg)]
-[![img_contact](./images/tech/javascript-original.svg)]
-[![img_contact](./images/tech/react-original.svg)]
-[![img_contact](./images/tech/express-original-wordmark.svg)]
-[![img_contact](./images/tech/nextjs-original-wordmark.svg)]
-[![img_contact](./images/tech/nodejs-original-wordmark.svg)]
-[![img_contact](./images/tech/mongodb-original-wordmark.svg)]
-[![img_contact](./images/tech/mongoose-original-wordmark.svg)]
-[![img_contact](./images/tech/redux-original.svg)]
-[![img_contact](./images/tech/nextjs-original-wordmark.svg)]
-[![img_contact](./images/tech/typescript-original.svg)] -->
+<p align="center">
+     <a href="https://linkedin.com/in/ssardella">
+        <img src="images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+     </a>
+     <a href="https://www.instagram.com/mayrone_art">
+        <img src="images/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+     </a>
+</p>
 
 ## Design
 
-<div style="background-color: white; border-radius: 40px; padding: 16px; display: flex; justify-content: center; flex-wrap: wrap; gap: 16px">
-    <img src="./images/design/figma-original.svg" alt="figma-original.svg" width="50" height="50">
-    <img src="./images/design/unity-original-wordmark.svg" alt="unity-original-wordmark.svg" width="50" height="50">
-</div>
+<p align="center">
+    <img src="images/design/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
+    <img src="images/design/figma.svg" alt="figma" style="vertical-align:top; margin:6px 4px">
+    <img src="images/design/sketch.svg" alt="sketch" style="vertical-align:top; margin:6px 4px">
+</p>
 <!--
 **Mayrone56/Mayrone56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
