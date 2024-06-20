@@ -40,8 +40,8 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
 
 <p align="center">
     <img src="images/design/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-    <img src="images/design/figma.svg" alt="figma" style="vertical-align:top; margin:6px 4px">
-    <img src="images/design/sketch.svg" alt="sketch" style="vertical-align:top; margin:6px 4px">
+    <!-- <img src="images/design/figma.svg" alt="figma" style="vertical-align:top; margin:6px 4px">
+    <img src="images/design/sketch.svg" alt="sketch" style="vertical-align:top; margin:6px 4px"> -->
 </p>
 <!--
 **Mayrone56/Mayrone56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
