@@ -1,4 +1,6 @@
-![MasterHead](./images/banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=300&color=FFFFFF&background=483076F8&center=true&vCenter=true&multiline=true&random=false&width=1024&height=100&lines=Hi%F0%9F%91%8B%2C;+I'm+Sandrine+a+Full+Stack+Developer)](https://git.io/typing-svg)
+
+<!--/*![MasterHead](./images/banner.png)-->
 
 Freshly graduated from **_La Capsule Bootcamp as a Fullstack Developer_**, I am actively seeking an internship within a dynamic company. With a boundless passion for development and a solid education, I am ready to immerse myself in an enriching professional environment.
 
