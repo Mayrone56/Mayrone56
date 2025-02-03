@@ -2,7 +2,8 @@
 
 <!--/*![MasterHead](./images/banner.png)-->
 
-Freshly graduated from **_La Capsule Bootcamp as a Fullstack Developer_**, I am actively seeking an internship within a dynamic company. With a boundless passion for development and a solid education, I am ready to immerse myself in an enriching professional environment.
+<!-- Freshly graduated from **_La Capsule Bootcamp as a Fullstack Developer_**, -->
+I am actively seeking a job within a dynamic company. With a boundless passion for development and a solid education, I am ready to immerse myself in an enriching professional environment.
 
 My over **_15 years of experience as a UI Designer and Art Director_** adds a unique dimension to my technical skills, allowing me to approach development from a creative and innovative perspective.
 
@@ -20,11 +21,10 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
 ## Tech
 
 <p align="center">
-    <img src="images/tech/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-    <img src="images/tech/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-    <img src="images/tech/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+     <p>Angular</p>
+    <img src="images/tech/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/typescript.svg" alt="typescript" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/redux.svg" alt="redux" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/express.svg" alt="express" style="vertical-align:top; margin:6px 4px">
@@ -33,6 +33,8 @@ My over **_15 years of experience as a UI Designer and Art Director_** adds a un
     <img src="images/tech/github.svg" alt="react" style="vertical-align:top; margin:6px 4px"> -->
     <img src="images/tech/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:6px 4px">
     <img src="images/tech/mongoose.svg" alt="mongoose" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="images/tech/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
 </p>
 
 ## Design
